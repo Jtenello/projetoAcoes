@@ -6,17 +6,17 @@ Este projeto apresenta uma análise comparativa entre o desempenho de uma cartei
 
 * Principais Insights
 
-*  1. Comparação de Retorno
+* 1: Comparação de Retorno
 
 - No dia **10 de setembro de 2024**, a carteira apresentou um retorno de **7,01%**, enquanto o IBOV teve um desempenho de **1,22%**.
 - Isso indica que a carteira teve um dia de forte valorização em relação ao índice de mercado. Um estudo mais aprofundado pode revelar quais ações impulsionaram esse resultado.
 
-*2. Tendência Geral e Divergências
+*2: Tendência Geral e Divergências
 
 - Embora a carteira e o IBOV tenham padrões de comportamento semelhantes, existem momentos de **descolamento significativo**.
 - Isso pode estar relacionado a eventos específicos do mercado, setores mais resilientes dentro da carteira ou estratégias de alocação diferentes.
 
-* 3. Volatilidade e Risco
+* 3: Volatilidade e Risco
 
 - A análise do gráfico sugere que, em alguns períodos, a carteira tem menor volatilidade em relação ao IBOV.
 - Esse fator pode indicar um perfil de risco mais controlado, tornando a carteira mais atrativa para investidores que buscam menor exposição a oscilações bruscas.
