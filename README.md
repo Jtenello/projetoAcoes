@@ -6,7 +6,7 @@ Este projeto apresenta uma análise comparativa entre o desempenho de uma cartei
 
 * Principais Insights
 
-* 1. Comparação de Retorno
+*  1. Comparação de Retorno
 
 - No dia **10 de setembro de 2024**, a carteira apresentou um retorno de **7,01%**, enquanto o IBOV teve um desempenho de **1,22%**.
 - Isso indica que a carteira teve um dia de forte valorização em relação ao índice de mercado. Um estudo mais aprofundado pode revelar quais ações impulsionaram esse resultado.
